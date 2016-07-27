@@ -1,0 +1,213 @@
+/*=========NAV BAR=============*/
+.navbar {
+  position: absolute;
+  z-index: 30;
+  width:100%;
+}
+
+.navbar-default {
+  background-color: transparent;
+  border:none;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  background-color: rgba(0, 0, 0, .3) !important;
+  color: #fff;
+  font-size: 10px;
+  padding: 10px;
+}
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+  font-size: 10px;
+  padding: 10px;
+}
+
+/*==========CAROUSEL==========*/
+.carousel .item {
+  height: 70vh !important;
+}
+
+.img-car {
+  width: 100%;
+  max-height: 100%;
+}
+
+.farm {
+  max-height: 100%;
+}
+
+.logo-background {
+  height: 220px;
+  margin-bottom: 50px;
+}
+
+.btn-primary {
+  background-color:#FB5022;
+  border:none;
+}
+
+.carouselCap {
+  margin-bottom: 100px;
+}
+
+/*========OUR STORY============*/
+.our-story {
+  margin-top: 65px;
+}
+
+.story {
+  margin-left: 30px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+.p-1 {
+  text-align: justify;
+  font-size: 12px;
+  font-family: 'Raleway';
+  padding-right: 65px;
+  padding-left: 0px;
+  line-height: 14px;
+}
+.subtitle1 {
+  font-family: 'Lobster', sans-serif;
+  font-size: 64px;
+  color: #F8512F;
+  opacity: 1 !important;
+  text-shadow: 2px 0px 2px #6d6c6c;
+}
+
+.story-year {
+  color:#EAE9E9;
+  z-index: -1;
+  font-size: 140px;
+  position: absolute;
+  font-family:'Playfair+Display';
+}
+
+/*=========FRESNO BEE=========*/
+.veggies {
+  background-image: url('../img/food_review.jpg');
+  height: 70vh;
+  margin-top: 220px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.well {
+  background-color: rgba(0, 0, 0, 0.55);
+  margin-top: 100px;
+  border: none;
+  padding-top:0px;;
+}
+
+.subtitle2 {
+  font-family: 'Lobster', sans-serif;
+  font-size: 53px;
+  color: #F8512F;
+  opacity: 1 !important;
+  text-shadow: 0 2px black;
+}
+
+.fres {
+  color:white;
+  font-size:20px;
+}
+
+/*=========MENU=========*/
+.menu {
+  background-image: url('../img/black_linen.png');
+  height: 95vh;
+}
+
+.subtitle3 {
+  font-family: 'Lobster', sans-serif;
+  color:white;
+  font-size: 63px;
+  margin-top: 50px;
+}
+
+.col-md-3 {
+  padding: 0px;
+}
+
+.thumbnail {
+  border-radius: 0px;
+  border: 0px;
+  padding: 10px;
+}
+
+.col-centered {
+  float:none;
+  margin: 0 auto;
+}
+
+.apps {
+  text-align: center;
+  font-family: 'Raleway';
+  font-weight: bolder;
+}
+
+.p-2 {
+  text-align: justify;
+  font-size: 12px;
+  font-family: 'Raleway';
+}
+
+.menu-tabs {
+  text-align: center;
+  font-family: 'Raleway';
+  text-transform: uppercase;
+  font-size: 10px;
+  font-weight: bolder !important;
+}
+
+.nav>li>a, .nav>li>a:focus, .nav>li>a:hover {
+    color: #F8512F;
+    background: transparent;
+    border: none;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover {
+  color: #F8512F;
+  border: none;
+  font-weight: bolder;
+}
+
+/*======CONTACT=======*/
+.orange {
+  background-color: #F8512F;
+  height: 85vh;
+}
+
+.white {
+  color:white;
+  margin-top: 20px;
+}
+
+.label {
+  color:white;
+}
+
+.p-3 {
+  text-align: justify;
+  font-size: 12px;
+  font-family: 'Raleway';
+  color:white;
+}
+
+.Contact-Us {
+  font-weight: bold;
+  text-transform: uppercase;;
+}
+
+address {
+  margin-top: 45px;
+  margin-left: 50px;
+}
+
+iframe {
+  margin-left: 50px;
+}
