@@ -38,7 +38,7 @@
 
 .logo-background {
   height: 220px;
-  margin-bottom: 50px;
+  margin-bottom: 11em;
 }
 
 .btn-primary {
@@ -98,7 +98,7 @@ h4 {
 
 .well {
   background-color: rgba(0, 0, 0, 0.55);
-  margin-top: 100px;
+  margin-top: 12em;
   border: none;
   padding-top:0px;;
 }
@@ -126,7 +126,7 @@ h4 {
   font-family: 'Lobster', sans-serif;
   color:white;
   font-size: 63px;
-  margin-top: 50px;
+  margin-top: 2em;
 }
 
 .col-md-3 {
@@ -184,7 +184,12 @@ h4 {
 
 .white {
   color:white;
-  margin-top: 20px;
+  margin-top: 5em;
+}
+
+.whitetext {
+  color:white;
+  margin-top: 3em;
 }
 
 .label {
@@ -204,10 +209,10 @@ h4 {
 }
 
 address {
-  margin-top: 45px;
-  margin-left: 50px;
+  margin-top: 4em;
+  margin-left: 4em;
 }
 
 iframe {
-  margin-left: 50px;
+  margin-left: 4em;
 }
